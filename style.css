@@ -2,7 +2,6 @@
 
     margin-top: 60px;
     width: 200px;
-    margin-left: 120px;
 
 }
 
@@ -13,8 +12,28 @@
     background-color: blue;
  }
 
- body{
+ *{
     margin:0;
     padding: 0;
     box-sizing: border-box;
- }
+ } 
+
+.container 
+{
+    max-width: 1200px;
+    margin:0 auto;
+}
+
+.text-grey
+{
+    color: grey;
+}
+
+#author 
+{
+    color:aqua
+}
+.text-small
+{
+    font-size: 12px;
+}
