@@ -74,9 +74,15 @@ margin-bottom: 20px;
     margin-top: 20px;
 }
 
+.img-container {
+    position: relative;
+    text-align: left;
+    margin-bottom: 20px;
+}
 
-.piccola
-{
-
-
+.bottom-left {
+    position: absolute;
+    bottom: 85%;
+    left: 10px;
+    color: rgb(249, 249, 249);
 }
