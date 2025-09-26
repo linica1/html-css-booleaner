@@ -47,12 +47,12 @@ thead {
     background: rgb(33, 207, 255);
 }
 
-.riga-pari {
-    background-color: rgb(254, 254, 254);
+.equal-line {
+    background-color: rgb(255, 255, 255);
 }
 
-.riga-dispari {
-    background-color: rgb(137, 221, 242);
+.odd-row {
+    background-color: #8fdcf0;
     color: rgb(0, 0, 0);
 }
 
@@ -67,4 +67,16 @@ td {
 
 .text-space{
 margin-bottom: 20px;
+}
+
+.above-space{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.piccola
+{
+
+
 }
